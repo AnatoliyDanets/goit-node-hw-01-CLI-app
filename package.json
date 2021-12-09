@@ -1,0 +1,28 @@
+{
+  "name": "goit-node-hw-01-cli-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnatoliyDanets/goit-node-hw-01-CLI-app.git"
+  },
+  "author": "Anatoliy Danets",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnatoliyDanets/goit-node-hw-01-CLI-app/issues"
+  },
+  "homepage": "https://github.com/AnatoliyDanets/goit-node-hw-01-CLI-app#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "commander": "^8.3.0",
+    "nanoid": "^3.1.30"
+  }
+}
