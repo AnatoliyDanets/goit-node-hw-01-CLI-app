@@ -13,7 +13,7 @@ async function getContactById(contactId) {
   const data = await listContacts();
   try {
     const result = data.filter(({ id }) => +id === +contactId);
-    console.table(result);
+    return result;
   } catch (error) {
     console.error(error);
   }
