@@ -1,8 +1,8 @@
 # goit-node-hw-01-CLI-app
 
 <h1>Скрины к домашней работе </h1>
-<b>Список контактов</b> https://ibb.co/m6tcCfj
-<b>Контакт по ID</b> https://ibb.co/ncJBkc1
-<b>Добавление контакта</b> https://ibb.co/QFD1DtP
-<b>Удаление контакта</b> https://ibb.co/HPkVDDB
-<b>Обнавление контакта</b> https://ibb.co/ZTKLSv7
+<p>Список контактов https://ibb.co/m6tcCfj </p>
+<p>Контакт по ID https://ibb.co/ncJBkc1 </p>
+<p>Добавление контакта https://ibb.co/QFD1DtP </p>
+<p>Удаление контакта https://ibb.co/HPkVDDB </p>
+<p>Обнавление контакта https://ibb.co/ZTKLSv7 </p>
